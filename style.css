@@ -1,0 +1,19 @@
+		* { margin: 0; padding: 0; }
+        body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background: url(image/wal.jpg); }
+        #satu{
+        	color: red;
+        	width: 800px; margin: 40px auto 70px;
+        }
+
+
+        #cv{
+        	width: 250px;
+        	background-color: #B30505; 
+        	text-align: center;
+
+        }
+
+        hr{
+        	color: red;
+        }
+
